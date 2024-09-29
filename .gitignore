@@ -32,6 +32,4 @@ build/
 # Ignore test coverage reports
 coverage/
 
-# Ignore lock files
-package-lock.json
 yarn.lock
